@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">小狗地图</string>
+    <string name="txtLong">经度</string>
+    <string name="txtLat">纬度</string>
+    <string name="loc">定位</string>
+    <string name="manual">手动定位</string>
+    <string name="gps">GPS定位</string>
+    <string name="address">地址</string>
+    <string name="locc">定位</string>
+</resources>
